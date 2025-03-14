@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "dist/js", // Output directory
+    "target": "ES6", // Target ECMAScript version
+    "noEmitOnError": true, // Do not emit outputs if any errors were reported
+  },
+  "include": ["app/**/*"] // Include all files in the app directory
+  
+}
